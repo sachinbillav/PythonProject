@@ -7,6 +7,9 @@ for m in range(3):
 
 def func2():
   print("*")
+def func3():
+  print("1");
 
 func2()
-func2()
+func3()
+
