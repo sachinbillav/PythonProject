@@ -9,3 +9,4 @@ def func2():
   print("*")
 
 func2()
+func2()
