@@ -6,5 +6,5 @@ for i in range(10):
   print(i)
 
 
-while(False):
-  print("dd")
+for m in range(3):
+  print(m)
