@@ -8,3 +8,4 @@ for i in range(10):
 
 for m in range(3):
   print(m)
+  print("#")
